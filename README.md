@@ -1,2 +1,0 @@
-# Miracle
-Fillter bypass Admin 
